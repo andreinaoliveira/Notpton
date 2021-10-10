@@ -1,4 +1,6 @@
-url: move to the other site (mover para o outro site)
-gif: stop being so negative! (pare de ser tão negativo!)
+#DICAS
+1) url: move to the other site (mude para o outro site)
+2) gif: stop being so negative! (pare de ser tão negativo!)
 
-solução: alterar o url de 'http://www.deathball.net/notpron/false/movetotheothersite.php' para 'http://www.deathball.net/notpron/true/movetotheothersite.php'
+#SOLUÇÃO
+alterar o url de 'http://www.deathball.net/notpron/false/movetotheothersite.php' para 'http://www.deathball.net/notpron/true/movetotheothersite.php'
