@@ -2,5 +2,5 @@
 1) Welcome / Bem vindo
 2) Enter the door! / Entre na porta!
 
-#RESPOSTA
-* Clicar na porta
+#SOLUÇÃO
+Clicar na porta
