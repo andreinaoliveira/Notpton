@@ -1,6 +1,0 @@
-#DICAS
-1) Algo estava no caminho dele
-2) Seta para o url
-
-#SOLUÇÃO
-Alterar url 'http://notpron.org/notpron/not/level2.htm' para 'http://notpron.org/notpron/not/level3.htm'
