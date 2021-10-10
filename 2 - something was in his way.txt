@@ -2,5 +2,5 @@
 1) Algo estava no caminho dele
 2) Seta para o url
 
-#RESPOSTAS
-* Alterar url 'http://notpron.org/notpron/not/level2.htm' para 'http://notpron.org/notpron/not/level3.htm'
+#SOLUÇÃO
+Alterar url 'http://notpron.org/notpron/not/level2.htm' para 'http://notpron.org/notpron/not/level3.htm'
