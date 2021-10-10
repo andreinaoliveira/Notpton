@@ -1,4 +1,6 @@
-Apenas clicar na porta
+#DICAS
+1) Welcome / Bem vindo
+2) Enter the door! / Entre na porta!
 
-#Dicas
-1) Enter the door!
+#RESPOSTA
+* Clicar na porta
