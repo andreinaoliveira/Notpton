@@ -13,11 +13,11 @@ O repositório visa trazer a resposta de todos os 138 níveis assim também como
 
 ## Status
 | Status | Level                                                                               
-|:-------|:-----------------------------------------------------------------------|
-| ✅    | <a href="/Levels/01-Level.md">Level 1</a>                       |
-| ✅    | <a href="/Levels/02-Level.md</a>                 |
-| ✅    | <a href="/Levels/03-Level.md</a> |
+|:-------|:------------------------------------------|
+| ✅    | <a href="/Levels/01-Level.md">Level 1</a> |
+| ✅    | <a href="/Levels/02-Level.md">Level 2</a> |
+| ✅    | <a href="/Levels/03-Level.md">Level 3</a> |
 | ✅    | <a href="/Levels/04-Level.md">Level 4</a> |
-| ✅    | <a href="/Levels/05-Level.md">Level 5</a>  | 
-| ✅    | <a href="/Levels/06-Level.md">Level 6</a>     |
-| ⌛     | <a href="/Levels/07-Level.md">Level 7</a>         |
+| ✅    | <a href="/Levels/05-Level.md">Level 5</a> | 
+| ✅    | <a href="/Levels/06-Level.md">Level 6</a> |
+| ⌛     | <a href="/Levels/07-Level.md">Level 7</a> |
