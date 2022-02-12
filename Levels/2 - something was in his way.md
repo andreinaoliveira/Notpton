@@ -8,4 +8,4 @@ http://www.notpron.org/notpron/not/level2.htm
 
 
 ### SOLUÇÃO
-- Alterar url 'http://notpron.org/notpron/not/level2.htm' para 'http://notpron.org/notpron/not/level3.htm'
+- Alterar url 'level2' para 'level3'
