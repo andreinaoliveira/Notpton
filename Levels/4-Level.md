@@ -1,6 +1,6 @@
 ## Look in the dark...
 https://www.deathball.net/notpron/true/movetotheothersite.php
-<img src="https://www.deathball.net/notpron/true/screen4.jpg">
+<br><img src="https://www.deathball.net/notpron/true/screen4.jpg">
 
 ### DICAS
 1) Look in the dark... (Olhe no escuro)
