@@ -1,6 +1,7 @@
 
 ## He's got it all, nothing
 https://www.deathball.net/notpron/nothing/hesgotitall.php
+<br>
 ![image](https://user-images.githubusercontent.com/51168329/153721693-60eb006b-1c15-4412-aa04-4aab9521a7b8.png)
 
 ### DICAS 
