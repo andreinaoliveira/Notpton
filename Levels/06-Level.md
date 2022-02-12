@@ -23,7 +23,7 @@ https://www.deathball.net/notpron/nothing/hesgotitall.php
 #### Gerando anagramas do resultado é possível chegar em: kill zone
 ![image](https://user-images.githubusercontent.com/51168329/153722796-2aaad08d-67f7-47ee-aba8-6c59c8bee24c.png)
 
-## Login
+## Resposta
 | Username | Password |
 |:---------|:---------|
 | kill     | zone     |
