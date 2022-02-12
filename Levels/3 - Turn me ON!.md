@@ -8,4 +8,4 @@ http://www.deathball.net/notpron/false/movetotheothersite.php
 2) gif: stop being so negative! / pare de ser tão negativo!
 
 ### SOLUÇÃO
-- alterar o url de 'http://www.deathball.net/notpron/false/movetotheothersite.php' para 'http://www.deathball.net/notpron/true/movetotheothersite.php'
+- alterar no url  'false' para 'true'
