@@ -1,15 +1,13 @@
-# # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                      DESAFIO                        #
+
 http://notpron.org/notpron/not/level2.htm
 
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                       DICAS                         #
 1) something was in his way / algo estava no caminho dele
 2) Mão apontando para o url
 
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                      SOLUÇÃO                        #
 A dica 2 indica que a solução está no url.
 A dica 1 unida a dica 2 indica que algo no url está no caminho para o proximo passo.
