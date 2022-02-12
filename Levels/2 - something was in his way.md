@@ -1,5 +1,6 @@
 ## Something was in his way
 http://www.notpron.org/notpron/not/level2.htm
+<br>
 <img src="http://www.notpron.org/notpron/not/screen2.jpg">
 
 ### DICAS
