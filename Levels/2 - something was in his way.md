@@ -1,15 +1,11 @@
-#                      DESAFIO                        #
+## Something was in his way
+<img src="http://www.notpron.org/notpron/not/screen2.jpg">
+http://www.notpron.org/notpron/not/level2.htm
 
-http://notpron.org/notpron/not/level2.htm
-
-
-#                       DICAS                         #
+### DICAS
 1) something was in his way / algo estava no caminho dele
 2) Mão apontando para o url
 
 
-#                      SOLUÇÃO                        #
-A dica 2 indica que a solução está no url.
-A dica 1 unida a dica 2 indica que algo no url está no caminho para o proximo passo.
-O url indica level2 o que impedir de ir para o level3.
+### SOLUÇÃO
 - Alterar url 'http://notpron.org/notpron/not/level2.htm' para 'http://notpron.org/notpron/not/level3.htm'
