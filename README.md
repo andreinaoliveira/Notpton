@@ -13,7 +13,7 @@ O repositório visa trazer a resposta de todos os 138 níveis assim também como
 
 ## Status
 | Level                                                         | Status  |
-|--------------------------------------------------------------:|--------:|
+|:--------------------------------------------------------------|:--------|
 | <a href="http://notpron.org/notpron/levelone.htm">Level 1</a> | ✅     |
 | <a href="https://pt.wikipedia.org/wiki/Notpron">Level 2</a> | ✅     |
 | <a href="https://pt.wikipedia.org/wiki/Notpron">Level 3</a> | ✅     |
