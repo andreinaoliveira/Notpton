@@ -12,13 +12,12 @@ Notpron é um jogo de quebra-cabeça online criado em 2004 pelo desenvolvedor de
 O repositório visa trazer a resposta de todos os 138 níveis assim também como passar por todas os caminhos escondidos no Notpron. O repositório está aberto para dicas de fases já completas. Dicas por exemplo de outros caminhos que levam a resposta.
 
 ## Status
-| Level                                                         | Status  |
-|:--------------------------------------------------------------|:--------|
-| <a href="http://notpron.org/notpron/levelone.htm">Level 1</a> | ✅     |
-| <a href="https://pt.wikipedia.org/wiki/Notpron">Level 2</a> | ✅     |
-| <a href="https://pt.wikipedia.org/wiki/Notpron">Level 3</a> | ✅     |
-| <a href="https://pt.wikipedia.org/wiki/Notpron">Level 4</a> | ✅     |
-| <a href="https://pt.wikipedia.org/wiki/Notpron">Level 5</a> | ✅     |
-| <a href="https://pt.wikipedia.org/wiki/Notpron">Level 6</a> | ✅     |
-| <a href="https://pt.wikipedia.org/wiki/Notpron">Level 7</a> | ✅     |
-| <a href="https://pt.wikipedia.org/wiki/Notpron">Level 8</a> | ⌛      |
+| Level                                                                               | Status |
+|:------------------------------------------------------------------------------------|:-------|
+| <a href="http://notpron.org/notpron/levelone.htm">Level 1</a>                       | ✅    |
+| <a href="http://www.notpron.org/notpron/not/level2.htm">Level 2</a>                 | ✅    |
+| <a href="http://www.deathball.net/notpron/false/movetotheothersite.php">Level 3</a> | ✅    |
+| <a href="https://www.deathball.net/notpron/true/movetotheothersite.php">Level 4</a> | ✅    |
+| <a href="https://www.deathball.net/notpron/google/shestheoneforme.php">Level 5</a>  | ✅    |
+| <a href="https://www.deathball.net/notpron/nothing/hesgotitall.php">Level 6</a>     | ✅    |
+| <a href="https://www.deathball.net/notpron/sdrawkcab/tieman.htm>Level 7</a>         | ⌛    |
